@@ -11,9 +11,9 @@ date: '2018-05-05T08:41:18-05:00'
 published: true
 style: normal-img
 tags:
-  - foundation
-  - html5
-  - template
+  - react
+  - flask
+  - gatsby
 roles:
   - Fronted Developer
 stack:
