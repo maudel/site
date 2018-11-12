@@ -18,10 +18,9 @@ date: 2018-11-06T05:27:32.846Z
 published: true
 style: default
 tags:
-  - webapp
+  - python
   - game
-  - react
-  - redux
+  - unity
 roles:
   - Fullstack Developer
 stack:

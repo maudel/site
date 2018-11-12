@@ -23,9 +23,9 @@ stack:
   - Sass
   - Webpack
 client: Personal
-repository: 'https://github.com/dantehemerson/TicTacToe'
+repository: 'https://github.com/maudel/TicTacToe'
 licence: MIT
-website: 'https://github.com/dantehemerson/TicTacToe'
+website: 'https://github.com/maudel/TicTacToe'
 ---
 Juego TicTacToe hecho en \[React](https://reactjs.org/)
 
